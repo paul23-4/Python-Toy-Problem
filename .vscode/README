@@ -1,0 +1,12 @@
+Coding Challenges
+This repository contains solutions to three coding challenges implemented in Python.
+
+1.Minimum Moves to Equal Bricks
+
+2.Given an array representing the number of bricks in each box, find the minimum number of moves needed to equalize the bricks in each box.
+Maximum Sum of Two Numbers
+
+3.Given an array of integers, find the maximum sum of two numbers whose digits add up to an equal sum.
+Equal Occurrences of Letters
+
+4.Given an integer N, generate a string of length N containing as many different lowercase letters as possible, with each letter occurring an equal number of times.
